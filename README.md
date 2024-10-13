@@ -1,5 +1,3 @@
-# jobdb
-
 
 def connect_database():
     if genderCombo.get() == '' or usernameEntry.get() == '' or passwordEntry.get() == '' or confirmEntry.get() == '' or contactEntry.get() == '' or qualificationCombo.get() == '' or addressEntry.get() == '':
